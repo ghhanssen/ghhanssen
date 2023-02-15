@@ -1,4 +1,4 @@
-[![](https://visitor-badge.glitch.me/badge?page_id=ghhanssen.visitor-badge")]()
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ghhanssen&left_color=green&right_color=red)
 ### Hi there 👋
 
 <!--
